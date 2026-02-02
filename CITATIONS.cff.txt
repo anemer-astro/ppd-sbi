@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+title: "Spectra Compression and SBI for Protoplanetary Disk Winds"
+authors:
+  - family-names: Nemer
+    given-names: Ahmad
+  - family-names: Hahn
+    given-names: Chang Hoon
+  - family-names: Li
+    given-names: Jiaxuan
+  - family-names: Melchior
+    given-names: Peter
+  - family-names: Goodman
+    given-names: Jeremy
+year: 2024
+journal: "The Astrophysical Journal"
+volume: 965
+number: 2
+pages: 157
+doi: 10.3847/1538-4357/ad34b3
+url: https://doi.org/10.3847/1538-4357/ad34b3
