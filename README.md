@@ -148,7 +148,6 @@ All outputs are written under `--outdir`:
 
 ```
 ![Fig 1](figures/fig1_latent_vs_training.png)
-![Posterior corner](https://raw.githubusercontent.com/anemer-astro/ppd-sbi/main/figures/fig2_posterior_corner.png)
 ![Fig 2](figures/fig2_posterior_corner.png)
 ![Fig 4](figures/fig4_sbc.png)
 ```
